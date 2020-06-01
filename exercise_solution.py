@@ -25,6 +25,8 @@ from __future__ import print_function
 
 # read yelp.csv using a relative path
 import pandas as pd
+
+*/#*
 path = 'data/yelp.csv'
 yelp = pd.read_csv(path)
 
